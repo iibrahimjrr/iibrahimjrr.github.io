@@ -1,0 +1,24 @@
+/* ===== CSS VARIABLES ===== */
+:root {
+  --bg: #080c18;
+  --fg: #e2e8f0;
+  --card: #0f1629;
+  --primary: #3b82f6;
+  --primary-hover: #2563eb;
+  --secondary: #1e2d4a;
+  --muted: #94a3b8;
+  --border: rgba(59, 130, 246, 0.15);
+  --accent: #2563eb;
+  --radius: 0.75rem;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-sans: 'Space Grotesk', sans-serif;
+}
+
+.light {
+  --bg: #f0f6ff;
+  --fg: #0f172a;
+  --card: #ffffff;
+  --secondary: #e0edff;
+  --muted: #64748b;
+  --border: rgba(15, 23, 42, 0.12);
+}

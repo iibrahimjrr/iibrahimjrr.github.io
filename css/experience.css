@@ -1,0 +1,99 @@
+/* ===== EXPERIENCE SECTION ===== */
+#experience .section-inner {
+  max-width: 900px;
+}
+
+.timeline {
+  position: relative;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0; bottom: 0;
+  width: 1px;
+  background: var(--border);
+  transform: translateX(-50%);
+}
+
+.exp-item {
+  position: relative;
+  margin-bottom: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.exp-item:nth-child(odd) .exp-card-wrap {
+  grid-column: 1;
+  padding-right: 3rem;
+  text-align: right;
+}
+
+.exp-item:nth-child(even) .exp-card-wrap {
+  grid-column: 2;
+  padding-left: 3rem;
+}
+
+.exp-dot {
+  position: absolute;
+  left: 50%;
+  top: 2rem;
+  width: 14px; height: 14px;
+  background: var(--primary);
+  border-radius: 50%;
+  border: 3px solid var(--bg);
+  transform: translateX(-50%);
+  z-index: 2;
+  transition: border-color 0.3s;
+}
+
+.exp-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  transition: border-color 0.2s;
+}
+
+.exp-card:hover {
+  border-color: rgba(59, 130, 246, 0.5);
+}
+
+.exp-role {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.exp-company {
+  color: var(--primary);
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.exp-period {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.exp-achievements li {
+  font-size: 0.875rem;
+  color: var(--muted);
+  margin-bottom: 0.375rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.exp-item:nth-child(odd) .exp-achievements li {
+  flex-direction: row-reverse;
+}
+
+.exp-achievements li .arrow {
+  color: var(--primary);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
