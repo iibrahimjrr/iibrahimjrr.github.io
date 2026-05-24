@@ -66,7 +66,7 @@ const DATA = {
   desc: "Business website for digital services showcasing company services and online presence.",
   tech: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
   impact: "Designed and developed a responsive corporate website with modern UI.",
-  img: "assets/Shety.png",
+  img: "assets/shety.png",
   liveDemo: "",
   github: "https://github.com/iibrahimjrr/Shtey-digtal"
 },
