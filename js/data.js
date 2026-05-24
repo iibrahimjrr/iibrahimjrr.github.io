@@ -2,7 +2,7 @@
 const DATA = {
   name: "Ibrahim Elsayed",
   title: "Junior Full-Stack Developer",
-  subtitle: "// Backend Systems Architect",
+  subtitle: "// Available for new opportunities",
   description:
     "Crafting high-performance backend systems that power modern applications using Laravel and .NET. Specialized in distributed systems, microservices, RESTful APIs, and scalable cloud architecture",
   email: "ibrahimelsayedwork@gmail.com",
@@ -75,7 +75,7 @@ const DATA = {
   desc: "News/content publishing platform with structured content management and user interaction features.",
   tech: ["Laravel", "PHP", "MySQL", "Bootstrap"],
   impact: "Developed a scalable CMS-style system for managing and publishing articles efficiently.",
-  img: "",
+  img: "assets/Nashr.png",
   liveDemo: "",
   github: "https://github.com/iibrahimjrr/Nashr"
 },
