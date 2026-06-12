@@ -91,7 +91,7 @@ const DATA = {
     "Bootstrap"
   ],
   impact: "Developed a scalable e-commerce solution with modern UI/UX, secure authentication, and efficient product management workflows.",
-  img: "assets/Cairozoon.png",
+  img: "assets/Cairo-zoon.png",
   liveDemo: "https://cairo-zoon-ecommerce-platforms.vercel.app/",
   github: "https://github.com/iibrahimjrr/Cairo-Zoon-Ecommerce-Platforms"
 }
