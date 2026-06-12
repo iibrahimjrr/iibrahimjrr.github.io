@@ -1,6 +1,6 @@
 
 const DATA = {
-  name: "Ibrahim Elsayed",
+  name: "Ibrahim Abd Elazeem",
   title: "Junior Full-Stack Developer",
   subtitle: "// Available for new opportunities",
   description:
@@ -79,6 +79,22 @@ const DATA = {
   liveDemo: "",
   github: "https://github.com/iibrahimjrr/Nashr"
 },
+{
+  title: "Cairo Zoon E-Commerce Platform",
+  desc: "A full-stack e-commerce platform featuring product browsing, shopping cart, authentication, user profiles, and an admin dashboard for managing products and orders.",
+  tech: [
+    "React",
+    "TypeScript",
+    "Laravel",
+    "REST API",
+    "MySQL",
+    "Bootstrap"
+  ],
+  impact: "Developed a scalable e-commerce solution with modern UI/UX, secure authentication, and efficient product management workflows.",
+  img: "assets/Cairozoon.png",
+  liveDemo: "https://cairo-zoon-ecommerce-platforms.vercel.app/",
+  github: "https://github.com/iibrahimjrr/Cairo-Zoon-Ecommerce-Platforms"
+}
   ],
 
   experience: [
@@ -159,9 +175,10 @@ const DATA = {
   }
 ],
 
-  summary:
-  "Back-End Developer with hands-on experience in building RESTful APIs using ASP.NET Core and Laravel."+
-  "Skilled in C#, PHP, MySQL, JWT authentication, and clean architecture principles."+
-  "Experienced in designing scalable backend systems and integrating databases with modern web applications."+
-  "Passionate about building secure, maintainable, and performance-focused solutions while continuously learning new technologies.",
+summary:
+"Full-Stack Developer specializing in Laravel, ASP.NET Core, and React with over 2 years of hands-on experience in web development."+
+"Skilled in building scalable APIs, database-driven applications, authentication systems, and modern responsive interfaces."+
+"Experienced in freelance development, transforming business requirements into production-ready solutions."+
+"Focused on clean architecture, performance optimization, and delivering reliable software that enhances user experience.",
+
 };
