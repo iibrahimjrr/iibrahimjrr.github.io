@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Ibrahim Elsayed — Portfolio Website
 
 A modern and fully responsive 3D portfolio website built with pure HTML, CSS, and JavaScript.  
@@ -114,3 +115,7 @@ Built with ❤️ by Ibrahim Elsayed
 
 ```
 ```
+=======
+# iibrahimjrr.github.io
+Personal portfolio website built with HTML, CSS, and JavaScript to showcase projects and skills.
+>>>>>>> 63d786ac6f2975e291cf6e8e05a6dedcff0acc02
