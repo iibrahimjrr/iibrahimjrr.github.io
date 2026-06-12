@@ -92,7 +92,7 @@ const DATA = {
   ],
   impact: "Developed a scalable e-commerce solution with modern UI/UX, secure authentication, and efficient product management workflows.",
   img: "assets/Cairo-zoon.png",
-  liveDemo: "https://cairo-zoon-ecommerce-platforms.vercel.app/",
+  liveDemo: "https://cairo-zoon-ecommerce-platforms-jnfl.vercel.app/",
   github: "https://github.com/iibrahimjrr/Cairo-Zoon-Ecommerce-Platforms"
 }
   ],
