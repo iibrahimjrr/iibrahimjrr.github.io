@@ -95,23 +95,6 @@ const DATA = {
   liveDemo: "https://cairo-zoon-ecommerce-platforms-jnfl.vercel.app/",
   github: "https://github.com/iibrahimjrr/Cairo-Zoon-Ecommerce-Platforms"
 },
-{
-  title: "The Daily Cairo — News Platform",
-  desc: "A modern full-stack news platform built with React 18, TypeScript, Laravel 12, MySQL, and Laravel Sanctum.",
-  tech: [
-    "React",
-    "TypeScript",
-    "Laravel",
-    "Laravel Sanctum",
-    "REST API",
-    "MySQL",
-    "Bootstrap"
-  ],
-  impact: "Developed a scalable news platform with modern UI/UX, secure authentication, and efficient content management workflows.",
-  img: "assets/The-Daily-Cairo.png",
-  liveDemo: "",
-  github: "https://github.com/iibrahimjrr/The-Daily-Cairo-News-.git"
-}
   ],
 
   experience: [
