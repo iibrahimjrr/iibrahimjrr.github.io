@@ -91,10 +91,10 @@ const DATA = {
     "Bootstrap"
   ],
   impact: "Developed a scalable e-commerce solution with modern UI/UX, secure authentication, and efficient product management workflows.",
-  img: "assets/Cairozoon.png",
+  img: "assets/Cairo-zoon.png",
   liveDemo: "https://cairo-zoon-ecommerce-platforms-jnfl.vercel.app/",
   github: "https://github.com/iibrahimjrr/Cairo-Zoon-Ecommerce-Platforms"
-}
+},
 {
   title: "The Daily Cairo — News Platform",
   desc: "A modern full-stack news platform built with React 18, TypeScript, Laravel 12, MySQL, and Laravel Sanctum.",
